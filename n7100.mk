@@ -95,7 +95,5 @@ PRODUCT_PACKAGES += LockClock \
     DeviceSettings \
     sensors.smdk4x12 \
     Torch \
-    Apollo \
-    DSPManager
 
 $(call inherit-product-if-exists, vendor/samsung/n7100/n7100-vendor.mk)

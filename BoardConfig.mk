@@ -29,7 +29,7 @@ BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/samsung/n7100/bluetooth
 
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/samsung/n7100-pureCM
-TARGET_KERNEL_CONFIG := psn_n7100_v2.6b_defconfig
+TARGET_KERNEL_CONFIG := psn_n7100_v2.7.3_defconfig
 
 # assert
 TARGET_OTA_ASSERT_DEVICE := t03g,n7100,GT-N7100

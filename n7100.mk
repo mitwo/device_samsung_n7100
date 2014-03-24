@@ -93,7 +93,6 @@ PRODUCT_COPY_FILES += \
 # Custom Apps
 PRODUCT_PACKAGES += LockClock \
     DeviceSettings \
-    sensors.smdk4x12 \
     Torch \
     aiccu
 
